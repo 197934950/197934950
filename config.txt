@@ -19,9 +19,9 @@
 # 生日1
 "birthday1": {"name": "胡翰文", "birthday": "2002-02-09"},
 # 生日2
-"birthday2": {"name": "0", "birthday": "0"},
+"birthday2": {"name": "七仙女", "birthday": "2000-01-01"},
 # 在一起的日子，格式同上
-"love_date": "0",
+"love_date": "2019-08-12",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
